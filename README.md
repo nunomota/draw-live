@@ -1,2 +1,1 @@
-Wow, just another test
-
+![Alt text](/Assets/Resources/Splash.png?raw=true "Optional Title")

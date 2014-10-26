@@ -1,2 +1,2 @@
-just another test
+Wow, just another test
 

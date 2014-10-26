@@ -1,6 +1,6 @@
 ![DrawLive Splash](/Assets/Resources/Splash.png?raw=true)
 
-**draw-live** is a cross-platform drawing streamer, developed with Unity3D.
+**DrawLive** is a cross-platform drawing streamer, developed with Unity3D.
 
 #How does it work?
 

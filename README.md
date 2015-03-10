@@ -1,4 +1,6 @@
-![DrawLive Splash](/Assets/Resources/Splash.png?raw=true)
+<p align="center">
+	<img src="/Assets/Resources/Icon.png?raw=true" width="64" height="64" alt="DrawLive Icon">
+</p>
 
 **DrawLive** is a cross-platform drawing streamer, developed with Unity3D.
 

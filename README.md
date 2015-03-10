@@ -6,6 +6,11 @@
 
 Currently, it is meant to be used as a streamer by Android phones and tablets. 
 You open up the application on your preferred device and select "Host session". After that, you will be able to connect any other device (be it PC, another Android device, etc...) by filling in the IP of the streaming device and clicking "Join session".
+The menu is as follows:
+
+<p align="center">
+  <img src="/Screenshots/Menu.png?raw=true" alt="Menu preview"/>
+</p>
 
 #Instructions
 
